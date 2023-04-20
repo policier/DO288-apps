@@ -1,0 +1,13 @@
+apiVersion: v1
+data:
+  DATABASE_NAME: todo
+  DATABASE_PASSWORD: redhat123
+  DATABASE_SVC_HOSTNAME: tododb
+  DATABASE_USER: todoapp
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2023-04-20T12:55:10Z"
+  name: migratecm
+  namespace: omougoue-dev
+  resourceVersion: "2366268229"
+  uid: 9ef3b0cc-e180-4105-8829-039fa31135a9
