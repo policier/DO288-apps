@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+echo "mein name ist spiderman"
+
+echo " end of the script"
